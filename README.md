@@ -1,1 +1,1 @@
-# Sogyo-Academy
+# Mancala
